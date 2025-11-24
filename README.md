@@ -39,7 +39,7 @@
 
 - Installation on linux
 ```bash
-$ git clone https://github.com/retr0-g04t/EagleOsint
+$ git clone https://github.com/dionbett/EagleOsint
 $ cd EagleOsint
 $ bash linuxinstall.sh
 $ python3 EagleOsint.py
