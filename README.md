@@ -46,5 +46,5 @@ $ python3 EagleOsint.py
 ```
 
 ### Credits
-Copyright © 2021 by <a href="https://www.instagram.com/lewdaldi/">@dionbett</a>
+Copyright © 2021 by <a href="https://www.x.com/lewdaldi/">@dionbett</a>
 
